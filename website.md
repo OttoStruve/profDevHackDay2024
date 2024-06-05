@@ -4,16 +4,23 @@ title: Website Resources
 subtitle: 
 ---
 
-There are tons of ways to make a professional website ranging from nocode to writing the HTML yourself. Here are some resources to help you get started. The two important parts of building a website are the content/design/code and the hosting. Some website builders like Wix and Squarespace offer both the design and hosting in one package. Other website builders like WordPress and Jekyll require you to host the website yourself. Github Pages is a free hosting service that is popular for hosting websites built with Jekyll but will also serve HTML sites.
+There are tons of ways to make a professional website ranging from nocode to writing the HTML yourself. The two important parts of a website are the design/content/code and the hosting. Some website builders like Wix and Squarespace offer both the design and hosting in one package. Other website builders like WordPress and Jekyll require you to host the website yourself. Github Pages is a free hosting service that is popular for hosting websites built with Jekyll but will also serve HTML sites. Here are some resources to help you get started.
 
 Nocode website builders:
 - [Wix](https://www.wix.com/)
 - [Squarespace](https://www.squarespace.com/)
 - [Weebly](https://www.weebly.com/)
+- [Webflow](https://webflow.com/)
+- [Strikingly](https://www.strikingly.com/)
+- [Google Sites](https://sites.google.com/)
+
 
 Website builders with some code:
 - [WordPress](https://wordpress.com/)
 - [Jekyll](https://jekyllrb.com/)
+  - [Jekyll Themes](https://jekyllthemes.io/)
+- [Hugo](https://gohugo.io/)
+
 
 Writing your own HTML:
 - [HTML Tutorial](https://www.w3schools.com/html/)
