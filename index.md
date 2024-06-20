@@ -10,7 +10,7 @@ Thanks to Karl for funding snacks and lunch!
 
 In the top menu you will find links to resources for each of the topics people hack on. Please feel free to edit those pages and add resources as you see fit. If you need help or don't have access, talk to Sam.
 
-Here is a post with some basic markdown examples to help you edit the pages: [Markdown Examples](/sample-markdown) and the actual file on github: [Markdown Examples](https://github.com/OttoStruve/profDevHackDay2024/blob/master/sample-markdown.md?plain=1).
+Here is a post with some basic markdown examples to help you edit the pages: [Markdown Examples](/sampleMarkdown) and the actual file on github: [Markdown Examples](https://github.com/OttoStruve/profDevHackDay2024/blob/master/sampleMarkdown.md?plain=1).
 
 ## Tentative Schedule for Tuesday, July 2nd
 - 10:00 - 10:15 Welcome, introductions, and choose a project
