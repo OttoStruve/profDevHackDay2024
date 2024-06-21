@@ -13,6 +13,7 @@ Nocode website builders:
 - [Webflow](https://webflow.com/)
 - [Strikingly](https://www.strikingly.com/)
 - [Google Sites](https://sites.google.com/)
+- [Mozilla Solo](https://soloist.ai/)
 
 
 Website builders with some code:
