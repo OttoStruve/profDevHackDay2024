@@ -15,3 +15,6 @@ A CV or Curriculum vitae is an extensive list of your academic and professional 
 ## Sam Factor
 
 - Here is the LaTeX version of my CV [cv.tex](/assets/cv/sf/cv.tex), the style file [resume.cls](/assets/cv/sf/resume.cls), and the final pdf: [CV.pdf](https://smfactor.github.io/assets/pubs/CV.pdf).
+
+## Quang Tran
+- [cv.pdf](/assets/cv/qt/cv.pdf)
