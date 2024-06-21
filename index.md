@@ -10,7 +10,7 @@ Thanks to Karl for funding snacks and lunch!
 
 In the top menu you will find links to resources for each of the topics people hack on. Please feel free to edit those pages and add resources as you see fit. If you need help or don't have access, talk to Sam.
 
-Please feel free to add material to/edit this website. Check out this [link](https://www.markdowntutorial.com/) for a markdown tutorial, or this file with some basic [markdown examples](https://github.com/OttoStruve/profDevHackDay2024/blob/master/_posts/2020-02-28-sample-markdown.md?plain=1) to help you edit the pages.
+Please feel free to add material to/edit this website, there are 'edit' links at the bottom of each page. Check out this [link](https://www.markdowntutorial.com/) for a markdown tutorial, or this file with some basic [markdown examples](https://github.com/OttoStruve/profDevHackDay2024/blob/master/_posts/2020-02-28-sample-markdown.md?plain=1) to help you edit the pages.
 
 ## Tentative Schedule for Tuesday, July 2nd
 - 10:00 - 10:15 Welcome, introductions, and choose a project
