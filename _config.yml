@@ -25,6 +25,8 @@ navbar-links:
     - CV: "cv"
     - Resume: "resume"
     - Website: "website"
+    - git/GitHub: "git"
+
 # Resources:
 #   - Beautiful Jekyll: "https://beautifuljekyll.com"
 #   - Learn markdown: "https://www.markdowntutorial.com/"
