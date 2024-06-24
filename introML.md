@@ -10,7 +10,7 @@ subtitle:
 # The following are materials from a Deep Learning Hackathon at the University of Arizona organized by Ansh Gupta 
 ### Thank you for sharing these resources!
 
-## Session 1 (February 2, 2024)
+## Session 1
 ### Description of Activities
 Dr. CK Chan gave a short presentation on the importance of deep learning in science. Jackson then gave a presentation introducing fundamentals of machine learning. Basic concepts covered include the linear algebra foundation of ML, gradient descent, and optimization problems. Ansh ran a hands-on activity about handwritten digit recognition using a basic neutral network and CNN model trained on the MNIST dataset.
 
@@ -24,7 +24,7 @@ Dr. CK Chan gave a short presentation on the importance of deep learning in scie
 - Neural networks (playlist): [But what is a neural network? Chapter 1, Deep learning](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - Explanation of convolution: [But what is a convolution?](https://youtu.be/KuXjwB4LzSA?si=5h5E6JAt7zz1lXLn)
 
-## Session 2 (February 9, 2024)
+## Session 2
 ### Description of Activities
 Jackson finished up their presentation on the fundamentals of machine learning, discussing common terminology and explaining the differences between models. Ansh gave a presentation on how neural networks learn by visually showing the backpropagation procedure on a neural network. Ansh then ran a hands-on session in which participants implemented autodifferentiation, a tool which is used to carry out backpropagation, using dual numbers. Dr. CK Chan wrote the code for that hands-on activity.
 
@@ -43,7 +43,7 @@ Jackson finished up their presentation on the fundamentals of machine learning, 
 - Tinker with neural network in browser: [https://playground.tensorflow.org/](https://playground.tensorflow.org/)
 - Tinker with neural network in browser: [neurovis.mitchcrowe.com/](neurovis.mitchcrowe.com/)
 
-## Session 3 (February 23, 2024)
+## Session 3
 ### Description of Activities
 Dr. CK Chan started by answering questions from last week. Ansh then ran a hands-on session in which participants trained a CNN to classify images of galaxies from the galaxy10 dataset. Participants were able to code based on their level of expertise, with hints available in the notebook ranging from small suggestions to nearly full solutions.
 
@@ -55,11 +55,11 @@ Dr. CK Chan started by answering questions from last week. Ansh then ran a hands
 - UA HPC workshops: [https://uarizona.atlassian.net/wiki/spaces/UAHPC/pages/75989137/Training](https://uarizona.atlassian.net/wiki/spaces/UAHPC/pages/75989137/Training)
 - NVIDIA deep learning training workshops: [https://www.nvidia.com/en-us/training/](https://www.nvidia.com/en-us/training/)
 
-## Session 4 (March 1, 2024)
+## Session 4
 ### Description of activities
 Dr. CK Chan led a discussion session to help participants talk through any questions from last week. Topics include Deep Double Descent ([1](https://arxiv.org/abs/1912.02292), [2](https://arxiv.org/abs/1812.11118), [3](https://arxiv.org/abs/2303.14151)). Participants also started thinking about ideas for the coding competition which will occur later in the hackathon.
 
-## Session 5 (March 15, 2024)
+## Session 5
 ### Description of Activities
 The group started by sharing project ideas. Dr. CK Chan then led an introduction to recurrent neural network and transformer architecture. Participants then tune a pre-trained transformer to perform semantic segmentation for galaxies.
 
@@ -74,7 +74,7 @@ The group started by sharing project ideas. Dr. CK Chan then led an introduction
 - A Survey of Large Language Models: [https://arxiv.org/abs/2303.18223](https://arxiv.org/abs/2303.18223)
 - Transformers example: [https://github.com/huggingface/transformers/tree/main/examples/](https://github.com/huggingface/transformers/tree/main/examples/)
 
-## Session 6 (March 22, 2024)
+## Session 6
 ### Description of Activities
 CK showed some open source and pre-trained models on hugging face.  Ansh gave an introduction to diffusion models and presented his work in another hackathon.  Participants were encouraged to team up and try out their project ideas.
 
@@ -91,7 +91,7 @@ CK showed some open source and pre-trained models on hugging face.  Ansh gave an
 - GitHub repository for above: [https://github.com/AlexandreAdam/score_models/tree/master](https://github.com/AlexandreAdam/score_models/tree/master)
 - Excellent video on stats/math behind diffusion models: [What are Diffusion Models?](https://www.youtube.com/watch?v=fbLgFrlTnGU)
 
-## Session 7 (March 29, 2024)
+## Session 7
 ### Description of Activities
 CyVerse researcher trained participants on using CACAO [https://cacao.jetstream-cloud.org/](https://cacao.jetstream-cloud.org/)
 
@@ -102,7 +102,7 @@ CyVerse researcher trained participants on using CACAO [https://cacao.jetstream-
 - CACAO documentation: [https://docs.jetstream-cloud.org/ui/cacao/intro/](https://docs.jetstream-cloud.org/ui/cacao/intro/)
 - List of ACCESS resources: [https://allocations.access-ci.org/resources](https://allocations.access-ci.org/resources)
 
-## Session 8 (April 5, 2024)
+## Session 8
 ### Description of Activities
 In small groups, we refined project ideas and did troubleshooting with CACAO [https://cacao.jetstream-cloud.org/](https://cacao.jetstream-cloud.org/). We decided on a final project presentation date of Friday, April 26. Participants will focus on defining their projects in more details, refining their understanding of the necessary ML concepts, starting some preliminary tests, and presenting their process by the end of the semester. Attendees will pursue full implementation of their models and work on obtaining final results in the upcoming semester(s).
 
