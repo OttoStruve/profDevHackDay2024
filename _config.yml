@@ -26,6 +26,7 @@ navbar-links:
     - Resume: "resume"
     - Website: "website"
     - git/GitHub: "git"
+    - intro to ML: "introML"
 
 # Resources:
 #   - Beautiful Jekyll: "https://beautifuljekyll.com"
