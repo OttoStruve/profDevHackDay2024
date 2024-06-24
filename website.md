@@ -42,3 +42,6 @@ If you put HTML files or a Jekyll site in a repository on Github, you can host i
 
 - I use Jekyll and host my website on github. The template I use for my personal website (and for the site you are currently on) is [Beautiful Jekyll](https://beautifuljekyll.com/) template. Here is my website in action: [https://smfactor.github.io](https://smfactor.github.io) and the actual code: [https://github.com/smfactor/smfactor.github.io](https://github.com/smfactor/smfactor.github.io).
 
+
+## Joohyun Lee
+- I use [Jekyll](https://jekyllrb.com/) and [Minimal Mistakes](https://mademistakes.com/work/jekyll-themes/minimal-mistakes/) to make [my website](https://joohyun-lee.github.io/about/) and it's hosted on github ([github repo](https://github.com/Joohyun-Lee/joohyun-lee.github.io)).
