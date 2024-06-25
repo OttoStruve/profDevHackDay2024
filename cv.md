@@ -20,4 +20,4 @@ A CV or Curriculum vitae is an extensive list of your academic and professional 
 - [cv.pdf](/assets/cv/qt/cv.pdf)
 
 ## Joohyun Lee
-- [cv.pdf](https://joohyun-lee.github.io/CV.pdf)
+- [cv.pdf](https://joohyun-lee.github.io/CV.pdf) and [cv.tex](/assets/cv/jl/cv.tex)
