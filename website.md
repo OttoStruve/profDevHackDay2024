@@ -18,7 +18,7 @@ There are tons of ways to make a professional website ranging from nocode to wri
 
 ### Website builders with some code:
 - [WordPress](https://wordpress.com/)
-- [Jekyll](https://jekyllrb.com/)
+- [Jekyll](https://jekyllrb.com/) allows you to write your website in markdown (and then, when the page is built, it converts everything to HTML). It is built on a ruby back end but you don't need ruby to use it with GitHub pages.
   - [Jekyll Themes](https://jekyllthemes.io/)
 - [Hugo](https://gohugo.io/)
 
