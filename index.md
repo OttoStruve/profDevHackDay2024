@@ -17,8 +17,7 @@ We will have a [zoom session](https://utexas.zoom.us/j/96008337325) going for th
 - 10:00 - 10:15 Welcome, introductions, and choose a project
 - 10:15 - 12:00 Work on projects
 - 12:00 - 1:00 Lunch
-- 1:00 - 3:00 Work on projects. Maybe the same one, maybe a different one
-- 1:00 - 2:00 zoom AMA with [Dr. Jeffrey Silverman](https://jeffreymsilverman.com/)
-- 3:00 - 3:15 Coffee/tea and cookie break on 13th floor
+- 1:00 - 3:15 Work on projects. Maybe the same one, maybe a different one
+- 1:00 - 2:00 [zoom](https://utexas.zoom.us/j/94157596526) AMA with [Dr. Jeffrey Silverman](https://jeffreymsilverman.com/)
 - 3:15 - 3:30 Share progress
 - 3:30 - 4:00 Add resources to the website for posterity
