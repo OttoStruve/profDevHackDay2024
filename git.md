@@ -20,4 +20,10 @@ GitHub is a web-based platform that uses git for version control. It is a platfo
 - [Top 12 Git commands every developer must know](https://github.blog/2024-06-10-top-12-git-commands-every-developer-must-know/?mc_cid=e790c4e8dc)
 - [GitHub for Beginners - YouTube Series](https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f)
 
+## GitHub Profile README
+You can modify your GitHub profile by adding a README file to it. This README file can be used to showcase your work, projects, and skills. You can add images, links, and other markdown elements to make your profile more attractive.
+- [How to create a GitHub profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
+- [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+
+
 (Feel free to add more links here)
