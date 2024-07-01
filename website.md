@@ -6,7 +6,7 @@ subtitle:
 
 There are tons of ways to make a professional website ranging from nocode to writing the HTML yourself. The two important parts of a website are the design/content/code and the hosting. Some website builders like Wix and Squarespace offer both the design and hosting in one package. Other website builders like WordPress and Jekyll require you to host the website yourself. Github Pages is a free hosting service that is popular for hosting websites built with Jekyll but will also serve HTML sites. Here are some resources to help you get started.
 
-Nocode website builders:
+### Nocode website builders:
 - [Wix](https://www.wix.com/)
 - [Squarespace](https://www.squarespace.com/)
 - [Weebly](https://www.weebly.com/)
@@ -16,24 +16,28 @@ Nocode website builders:
 - [Mozilla Solo](https://soloist.ai/)
 
 
-Website builders with some code:
+### Website builders with some code:
 - [WordPress](https://wordpress.com/)
 - [Jekyll](https://jekyllrb.com/)
   - [Jekyll Themes](https://jekyllthemes.io/)
 - [Hugo](https://gohugo.io/)
 
 
-Writing your own HTML:
+### Writing your own HTML:
 - [HTML Tutorial](https://www.w3schools.com/html/)
 - [CSS Tutorial](https://www.w3schools.com/css/)
 - [Bootstrap](https://getbootstrap.com/)
 
-Github Pages:
-If you put HTML files or a Jekyll site in a repository on Github, you can host it for free using Github Pages. To make a website for your account name the repository `<your github id>.github.io` and for a website associated with an already existing repository (e.g. for code documentation) create a branch named `gh-pages` and put the website there. Here are some resources to help you get started:
+### Github Pages:
+If you put HTML files or a Jekyll site in a repository on Github, you can host it for free using Github Pages. To make a website for your account, name the repository `<your github id>.github.io` and for a website associated with an already existing repository (e.g. for code documentation) create a branch named `gh-pages` and put the website there. Here are some resources to help you get started:
 - [Github Pages](https://pages.github.com/)
 - [Jekyll on Github Pages](https://jekyllrb.com/docs/github-pages/)
-- [Jekyll Themes](https://jekyllthemes.io/)
 
+### Analytics:
+A powerful tool of hosting your own website is the ability to use analytics to track who is visiting your site. Most templates have a way to insert a google analytics tag. Here are some resources to help you get started:
+- [Google Analytics](https://analytics.google.com/) (see who visits your site)
+- [Jetpack](https://jetpack.com/) (for WordPress)
+- [Google Search Console](https://search.google.com/search-console/about) (see how your site is indexed by google)
 
 (Feel free to add more links here)
 
