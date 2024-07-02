@@ -21,3 +21,6 @@ A CV or Curriculum vitae is an extensive list of your academic and professional 
 
 ## Joohyun Lee
 - [cv.pdf](https://joohyun-lee.github.io/CV.pdf) and [cv.tex](/assets/cv/jl/cv.tex)
+
+## Jenna Samuel
+- [Overleaf CV](https://www.overleaf.com/read/scrjxmftxhdj#f5b5d4)
