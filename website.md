@@ -14,6 +14,7 @@ There are tons of ways to make a professional website ranging from nocode to wri
 - [Strikingly](https://www.strikingly.com/)
 - [Google Sites](https://sites.google.com/)
 - [Mozilla Solo](https://soloist.ai/)
+- [Notion](https://www.notion.so/help/guides/build-a-website-with-notion-in-seconds-no-coding-required)
 
 
 ### Website builders with some code:
