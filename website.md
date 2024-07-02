@@ -49,3 +49,7 @@ A powerful tool of hosting your own website is the ability to use analytics to t
 
 ## Joohyun Lee
 - I use [Jekyll](https://jekyllrb.com/) and [Minimal Mistakes](https://mademistakes.com/work/jekyll-themes/minimal-mistakes/) to make [my website](https://joohyun-lee.github.io/about/) and it's hosted on github ([github repo](https://github.com/Joohyun-Lee/joohyun-lee.github.io)).
+
+
+## Jenna Samuel
+- I have used HTML5UP templates and hosted my website on github pages for a while now. The [website is here](https://jsamu.github.io/) and the [code is here](https://github.com/jsamu/jsamu.github.io). I'm going to explore non-coding website builders now though, specifically [Notion](https://www.notion.so/help/guides/build-a-website-with-notion-in-seconds-no-coding-required).
