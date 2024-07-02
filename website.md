@@ -53,3 +53,6 @@ A powerful tool of hosting your own website is the ability to use analytics to t
 
 ## Jenna Samuel
 - I have used [HTML5UP](https://html5up.net/) templates and hosted my website on github pages for a while now. The [website is here](https://jsamu.github.io/) and the [code is here](https://github.com/jsamu/jsamu.github.io). I'm going to explore non-coding website builders now though, specifically [Notion](https://www.notion.so/help/guides/build-a-website-with-notion-in-seconds-no-coding-required).
+
+## Lindsay House
+- [lindsay.house/](https://lindsay.house/)
