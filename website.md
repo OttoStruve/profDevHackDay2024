@@ -60,3 +60,6 @@ A powerful tool of hosting your own website is the ability to use analytics to t
 
 ## Kyla Kaplan
 - I use Google Sites: [https://sites.google.com/view/kylekaplansastronomy/home](https://sites.google.com/view/kylekaplansastronomy/home)
+
+## Quang Tran
+- The particular theme is a [raditian](https://github.com/radity/raditian-free-hugo-theme) template, which uses a [Hugo backend](https://gohugo.io/).This template was directly edited using HTML5. The website is hosted on [Github pages](https://github.com/quang-h-tran/quang-h-tran.github.io) with the [domain](https://quanghtran.io/) listed by SquareSpace Domains.
