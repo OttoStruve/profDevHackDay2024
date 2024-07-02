@@ -49,7 +49,7 @@ A powerful tool of hosting your own website is the ability to use analytics to t
 
 
 ## Joohyun Lee
-- I use [Jekyll](https://jekyllrb.com/) and [Minimal Mistakes](https://mademistakes.com/work/jekyll-themes/minimal-mistakes/) to make [my website](https://joohyun-lee.github.io/about/) and it's hosted on github ([github repo](https://github.com/Joohyun-Lee/joohyun-lee.github.io)).
+- I use [Jekyll](https://jekyllrb.com/) and [Minimal Mistakes](https://mademistakes.com/work/jekyll-themes/minimal-mistakes/) to make [my website](https://joohyun-lee.github.io/) and it's hosted on github ([github repo](https://github.com/Joohyun-Lee/joohyun-lee.github.io)).
 
 
 ## Jenna Samuel
