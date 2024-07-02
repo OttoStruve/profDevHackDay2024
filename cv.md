@@ -24,3 +24,7 @@ A CV or Curriculum vitae is an extensive list of your academic and professional 
 
 ## Jenna Samuel
 - [Overleaf CV](https://www.overleaf.com/read/scrjxmftxhdj#f5b5d4)
+
+## Kyle Kaplan
+- [CV.pdf](/assets/cv/kk/CV.pdf)
+
