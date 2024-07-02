@@ -58,7 +58,7 @@ A powerful tool of hosting your own website is the ability to use analytics to t
 ## Lindsay House
 - [lindsay.house](https://lindsay.house/) and the files on [GitHub](https://github.com/lindsayinthehouse/lindsayinthehouse) ([Landed](https://html5up.net/landed) by HTML5 UP)
 
-## Kyla Kaplan
+## Kyle Kaplan
 - I use Google Sites: [https://sites.google.com/view/kylekaplansastronomy/home](https://sites.google.com/view/kylekaplansastronomy/home)
 
 ## Quang Tran
