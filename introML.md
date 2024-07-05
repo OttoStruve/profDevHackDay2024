@@ -7,7 +7,7 @@ subtitle:
 
 (Feel free to add more links here)
 
-# The following are materials from a Deep Learning Hackathon at the University of Arizona organized by Ansh Gupta 
+# The following are materials from a Deep Learning Hackathon at the University of Arizona organized by Ansh Gupta (anshrg[at]utexas[dot]edu)
 ### Thank you for sharing these resources!
 
 ## Session 1
